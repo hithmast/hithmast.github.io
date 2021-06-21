@@ -19,7 +19,7 @@ name: "Ali Emara"
 description: >- # this means to ignore newlines until "baseurl:"
     Security and stuff
 repository: "hithmast/hitmast.github.io"
-url: "https://mhithmast.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://hithmast.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # Author
